@@ -1,4 +1,4 @@
-# Vrindavan_Store_EXCEL_Project
+# Vrindavan_Store_EXCEL_Project🛒
 
 Objective-
 Vrinda store wants to create an annual sales report for 2022. So that, Vrinda can understand their customers and grow more sales in 2023.
@@ -40,7 +40,7 @@ Based on the analysis, the following strategies can be implemented to enhance sa
 3. Leverage Preferred Platforms:
    - Utilize the high-performing sales channels, namely Amazon, Flipkart, and Myntra, to maximize the reach and impact of marketing efforts.
 
-By concentrating efforts on engaging women customers aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh, and leveraging effective platforms like Amazon, Flipkart, and Myntra, Vrinda store can significantly enhance its sales performance.
+By concentrating efforts on engaging women customers aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh, and leveraging effective platforms like Amazon, Flipkart, and Myntra, Vrinda store can significantly enhance its sales performance.📈🛒🎯
 
 ![Screenshot (1712)](https://github.com/shivam12345kesarwaniS/Vrindavan_Store_EXCEL_Project/assets/138551775/b304d131-e1ca-4894-8984-ba218090d9c9)
 ![Screenshot (1706)](https://github.com/shivam12345kesarwaniS/Vrindavan_Store_EXCEL_Project/assets/138551775/7407aa64-d0bb-43af-9e91-6b509797bac8)
